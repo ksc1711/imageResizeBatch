@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PInvoke.Windows.Core</id>
+    <version>0.3.90</version>
+    <title>PInvoke.Windows.Core</title>
+    <authors>Andrew Arnott</authors>
+    <owners>Andrew Arnott</owners>
+    <licenseUrl>https://raw.githubusercontent.com/AArnott/PInvoke/9c64760864/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/AArnott/pinvoke</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>P/Invoke types for common Windows APIs.</description>
+    <summary>P/Invoke types for common Windows APIs.</summary>
+    <copyright>Copyright © Andrew Arnott</copyright>
+    <tags>pinvoke .net pcl</tags>
+  </metadata>
+</package>

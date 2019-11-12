@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PInvoke.Shell32</id>
+    <version>0.3.90</version>
+    <title>PInvoke.Shell32</title>
+    <authors>Andrew Arnott</authors>
+    <owners>Andrew Arnott</owners>
+    <licenseUrl>https://raw.githubusercontent.com/AArnott/PInvoke/9c64760864/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/AArnott/pinvoke</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>P/Invoke methods for the Windows Shell32.dll.</description>
+    <summary>P/Invoke methods for the Windows Shell32.dll.</summary>
+    <copyright>Copyright © Andrew Arnott</copyright>
+    <tags>pinvoke .net pcl</tags>
+    <dependencies>
+      <group targetFramework=".NETPortable0.0-net40+win8+wpa81">
+        <dependency id="PInvoke.Windows.Core" version="0.3.90" />
+        <dependency id="PInvoke.Kernel32" version="0.3.90" />
+      </group>
+      <group targetFramework=".NETPortable0.0-net45+win8+wpa81">
+        <dependency id="PInvoke.Windows.Core" version="0.3.90" />
+        <dependency id="PInvoke.Kernel32" version="0.3.90" />
+      </group>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="PInvoke.Windows.Core" version="0.3.90" />
+        <dependency id="PInvoke.Kernel32" version="0.3.90" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

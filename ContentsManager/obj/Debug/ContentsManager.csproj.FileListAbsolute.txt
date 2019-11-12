@@ -1,0 +1,119 @@
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\obj\Debug\ContentsManager.csprojResolveAssemblyReference.cache
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Couchbase.NetClient.2.3.7.0.Fakes.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\NLog.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Reservasi.CM.Common.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Reservasi.DAC.Cache.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.pdb
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.xml
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.pdb
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.xml
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Couchbase.NetClient.2.3.7.0.Fakes.xml
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\NLog.xml
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Reservasi.CM.Common.pdb
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Reservasi.DAC.Cache.pdb
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.pdb
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.xml
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\obj\Debug\ContentsManager.exe
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\obj\Debug\ContentsManager.pdb
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\NLog.config
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\ContentsManager.exe.config
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\ContentsManager.exe
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\ContentsManager.pdb
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.Native.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.dll
+C:\Users\정회수\Desktop\ContentsManager\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.xml
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\ContentsManager.exe.config
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\obj\Debug\ContentsManager.exe
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\obj\Debug\ContentsManager.pdb
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.Native.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\NLog.config
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\ContentsManager.exe
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\ContentsManager.pdb
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Couchbase.NetClient.2.3.7.0.Fakes.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Newtonsoft.Json.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\NLog.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Reservasi.CM.Common.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Reservasi.DAC.Cache.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.dll
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.pdb
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.xml
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.pdb
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.xml
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Couchbase.NetClient.2.3.7.0.Fakes.xml
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.xml
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Newtonsoft.Json.xml
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\NLog.xml
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Reservasi.CM.Common.pdb
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\Reservasi.DAC.Cache.pdb
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.pdb
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.xml
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\obj\Debug\ContentsManager.csprojResolveAssemblyReference.cache
+D:\회사 관련\두번째 업무 - ContentsManager\ContentsManager\ContentsManager\bin\Debug\DirectShowLib-2005.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\ContentsManager.exe.config
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\obj\Debug\ContentsManager.exe
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\obj\Debug\ContentsManager.pdb
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.Native.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\NLog.config
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\ContentsManager.exe
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\ContentsManager.pdb
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Common.Logging.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Couchbase.NetClient.2.3.7.0.Fakes.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\NLog.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Reservasi.CM.Common.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Reservasi.DAC.Cache.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.dll
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Common.Logging.pdb
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Common.Logging.xml
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.pdb
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.xml
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Couchbase.NetClient.2.3.7.0.Fakes.xml
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.xml
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\NLog.xml
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Reservasi.CM.Common.pdb
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\Reservasi.DAC.Cache.pdb
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.pdb
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.xml
+C:\Users\권순창\Documents\Visual Studio 2013\Projects\ContentsManager\ContentsManager\obj\Debug\ContentsManager.csprojResolveAssemblyReference.cache
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\ContentsManager.exe.config
+D:\02.TestSource\ContentsManager\ContentsManager\obj\Debug\ContentsManager.exe
+D:\02.TestSource\ContentsManager\ContentsManager\obj\Debug\ContentsManager.pdb
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.Native.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\NLog.config
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\ContentsManager.exe
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\ContentsManager.pdb
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Common.Logging.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Couchbase.NetClient.2.3.7.0.Fakes.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Newtonsoft.Json.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\NLog.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Reservasi.CM.Common.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Reservasi.DAC.Cache.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.dll
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Common.Logging.pdb
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Common.Logging.xml
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.pdb
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Common.Logging.Core.xml
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Couchbase.NetClient.2.3.7.0.Fakes.xml
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Magick.NET-Q16-x86.xml
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Newtonsoft.Json.xml
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\NLog.xml
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Reservasi.CM.Common.pdb
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\Reservasi.DAC.Cache.pdb
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.pdb
+D:\02.TestSource\ContentsManager\ContentsManager\bin\Debug\StackExchange.Redis.xml
+D:\02.TestSource\ContentsManager\ContentsManager\obj\Debug\ContentsManager.csprojResolveAssemblyReference.cache

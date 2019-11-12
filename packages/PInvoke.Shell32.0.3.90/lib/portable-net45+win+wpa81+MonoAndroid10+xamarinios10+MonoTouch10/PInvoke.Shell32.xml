@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PInvoke.Shell32</name>
+    </assembly>
+    <members>
+        <member name="T:PInvoke.Shell32">
+            <content>
+            Methods and nested types that are not strictly P/Invokes but provide
+            a slightly higher level of functionality to ease calling into native code.
+            </content>
+            <summary>
+            Exported functions from the Shell32.dll Windows library
+            that are available to Desktop and Store apps.
+            </summary>
+            <content>
+            Methods and nested types that are not strictly P/Invokes but provide
+            a slightly higher level of functionality to ease calling into native code.
+            </content>
+            <summary>
+            Exported functions from the Shell32.dll Windows library
+            that are available to Desktop and Store apps.
+            </summary>
+        </member>
+    </members>
+</doc>
